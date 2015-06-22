@@ -1,0 +1,10 @@
+C:\Users\QiuMan\Documents\Reflector\Disassembler\QDBGenerator\obj\x86\Debug\QDBGenerator.csprojResolveAssemblyReference.cache
+C:\Users\QiuMan\Documents\Reflector\Disassembler\QDBGenerator\bin\Debug\QDBGenerator.exe
+C:\Users\QiuMan\Documents\Reflector\Disassembler\QDBGenerator\bin\Debug\QDBGenerator.pdb
+C:\Users\QiuMan\Documents\Reflector\Disassembler\QDBGenerator\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\QiuMan\Documents\Reflector\Disassembler\QDBGenerator\bin\Debug\NPOI.dll
+C:\Users\QiuMan\Documents\Reflector\Disassembler\QDBGenerator\bin\Debug\NPOI.OOXML.dll
+C:\Users\QiuMan\Documents\Reflector\Disassembler\QDBGenerator\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\QiuMan\Documents\Reflector\Disassembler\QDBGenerator\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\QiuMan\Documents\Reflector\Disassembler\QDBGenerator\obj\x86\Debug\QDBGenerator.exe
+C:\Users\QiuMan\Documents\Reflector\Disassembler\QDBGenerator\obj\x86\Debug\QDBGenerator.pdb
